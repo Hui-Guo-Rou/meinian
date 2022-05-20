@@ -3,3 +3,6 @@ hello
 3.nihc
 4.wozd
 5.nige
+6.你好
+7.我也是第一次用git
+8.随便说点啥
